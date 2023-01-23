@@ -3,7 +3,7 @@
 # Login-System-using-PHP
 This is a simple Login System
 
-# Techlogies used
+## Techlogies used
 
 - HTML
 - PHP
